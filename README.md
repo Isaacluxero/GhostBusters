@@ -16,13 +16,15 @@ This project implements an AI agent capable of detecting and capturing ghosts in
 Install the required dependencies using pip:
 ```bash
 pip install -r requirements.txt
-
-## Usage
+Usage
 Run the GhostBusters agent:
+
+bash
+Copy code
 python ghostbusters.py
 Follow the on-screen instructions to interact with the agent and observe its ghost-catching capabilities.
 
-## Project Structure
+Project Structure
 The project includes the following files and directories:
 
 ghostbusters.py: Main script to run the GhostBusters agent.
